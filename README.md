@@ -1,0 +1,2 @@
+# HotelView
+Hello
