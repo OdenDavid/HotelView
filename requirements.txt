@@ -1,0 +1,8 @@
+streamlit_option_menu
+streamlit
+pandas
+wordcloud
+joblib
+scikit-learn==1.2.2
+bertopic==0.15.0
+nltk==3.8.1
