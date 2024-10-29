@@ -32,28 +32,31 @@ Methodology
 --------------
 Data Collection
   * Datafiniti's Business Database (1,000 hotels, reviews, ratings, locations)
+
 Descriptive Statistics
   * Hotel count
   * Top 10 hotels by rating
   * Review distribution
+
 Data Visualization
   * Word Cloud
   * Top 10 hotels with 5-star rating (Bar Chart)
   * Number of reviews over time (Line Plot)
   * Top cities (Sunburst Chart)
   * Average ratings by province (Choropleth Map)
+
 Data Preprocessing
   * Dropping empty rows
   * Cleaning reviews
+
 Sentiment Analysis
   * Blob
   * Vader
   * User rating
-Topic Modeling
+
+Topic Modeling: Topic grouping (5 categories)
   * Latent Dirichlet Allocation (LDA)
   * BERTopic
-  * Intertopic distance maps
-  Topic grouping (5 categories)
 
 Features
 ------------
